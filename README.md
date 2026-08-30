@@ -113,7 +113,7 @@ disown
   de registro) requieren permisos elevados. Sin ellos, esos procesos
   simplemente se saltan — no se reportan como falso "todo limpio".
 
-## Un bug real que encontramos armando esto (y por qué importa)
+## Un bug real que encontré armando esto (y por qué importa)
 
 Al probar el escáner de persistencia contra un sistema Linux real, el
 primer intento reportaba `/dev/null` y `/run/systemd/system` como si
