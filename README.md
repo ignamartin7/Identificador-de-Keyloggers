@@ -6,10 +6,6 @@ contraseñas, analizando los procesos en ejecución — no por nombre de
 archivo (trivial de evadir: basta con renombrar el ejecutable), sino
 por lo que el proceso hace y dónde se ancla al sistema.
 
-> Mismo estilo que los demás proyectos de esta serie (foundations
-> tier): lógica de detección pura y testeable, separada de la parte
-> que toca el sistema operativo, con `rich` para la salida en terminal.
-
 ## Las cuatro familias de señales
 
 | # | Señal | Cómo se detecta | Plataforma |
