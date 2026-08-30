@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31622115/README.md)
 # keylogger-detector
 
 Detecta **comportamiento** típico de keyloggers y de malware que roba
