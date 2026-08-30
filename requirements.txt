@@ -1,0 +1,7 @@
+psutil>=5.9.0
+rich>=13.0.0
+
+# Opcional — solo aporta valor en Windows (analiza los imports de
+# user32.dll de cada .exe en busca de APIs de captura de teclado).
+# En Linux/macOS no hace nada si falta, así que no es obligatoria:
+# pefile>=2023.2.7
